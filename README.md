@@ -40,6 +40,7 @@ SNS , SQS
 
 From <https://acloud.guru/forums/aws-certified-solutions-architect-associate/discussion/-KqTvkfGo3cmjxW0dWU2/exam_notes_from_today> 
 
+
  
 
 I passed the new solutions architect associate exam (Feb 2018) yesterday. It was a bit harder than I expected but manageable. By the time I took the exam, I was regularly scoring ~93-95% on the acloud exam simulator, but only scored a 76% on the actual exam, so I'd expect a drop of about 10-15% going into it.
@@ -56,6 +57,7 @@ Good luck.
 From <https://acloud.guru/forums/aws-certified-solutions-architect-associate/discussion/-KqTvkfGo3cmjxW0dWU2/exam_notes_from_today> 
 
  
+
  
 I just successfully sat and passed the most recent version of the AWS CSA-A released in February 2018. 65 questions, 130 Minutes. Here's my synopsis.
 
@@ -89,6 +91,7 @@ Topics:
 From <https://acloud.guru/forums/aws-certified-solutions-architect-associate/discussion/-L5WLPO18o4lj0LrIbA_/passed_february_2018_csa-a_exa> 
  
  
+
  
 A big thank you to Ryan and crew! My exam prep was entirely acloudguru and the recommended FAQs and white papers. I did have some prior AWS experience, but not nearly enough to pass the exam.
 
@@ -125,11 +128,13 @@ I'm going to keep the momentum going and take the Dev exam soon since there's so
 From <https://acloud.guru/forums/aws-certified-solutions-architect-associate/discussion/-LArIK5gwGmcXkNEj9z_/passed_the_exam_yesterday> 
 
  
+
  
 SQS (task prioritization, how many queues is good to have), Spot instances pricing (e.g. what much you get billed after 75mins), what services are natively encrypted, valid sources for Origin servers in CloudFront, ECS instance from default AMI and how to troubleshoot if resources do not come up, STS vs IAM roles (if a company wants to rotate credentials bi-weekly and employees not to have any creds), lots of DB questions - e.g. what is suitable for GPS navigation service, which DB scales best, etc.
 
 From <https://acloud.guru/forums/aws-certified-solutions-architect-associate/discussion/-KaHhsSrrDOdoZPU0zcz/cleared_the_aws_csa_with_87%25_!> 
  
+
 
  
 Congrats Tocacar! I just passed mine this morning as well! I agree, unexpected significant presence of Redshift questions. Also, expectedly however, a fair number of scenario questions - maybe 6 - 10, it seemed - on setting up websites with webservers, elb, and databases, and how the subnets and AZs should be configured for high availability. As the ACG course says, you need to know VPC and all the networking components really well.
@@ -137,6 +142,7 @@ Congrats Tocacar! I just passed mine this morning as well! I agree, unexpected s
 From <https://acloud.guru/forums/aws-certified-solutions-architect-associate/discussion/-LANRw5kcN4lUVi_2nq2/passed_the_solution_architect> 
 
  
+
  
 I passed SAA on the 16th of April. I got 85% (pass threshold was 72%)
 
@@ -164,6 +170,7 @@ If you have any questions please feel free to ask.
 From <https://acloud.guru/forums/aws-certified-solutions-architect-associate/discussion/-LAMzA9wLFtrJZScZ8o0/solutions_architect_-_associat> 
 
  
+
  
 Hello Fellow Cloud Gurus,
 
@@ -189,6 +196,7 @@ Today's Date: Thursday, April 17, 2018
 From <https://acloud.guru/forums/aws-certified-solutions-architect-associate/discussion/-LAKnsq6lGG8bwURFDe4/sa_associate_certified!!__pass> 
  
 
+ 
  
 Yesterday I passed the SA Associate Exam (Feb 2018); one month ago I passed Developer Associate. I've been doing AWS on the job for about two years, but the services used weren't very complex - certainly not even 10% of the stuff you see in these certifications.
 
@@ -238,6 +246,7 @@ From <https://acloud.guru/forums/aws-certified-solutions-architect-associate/dis
  
 
  
+ 
 First time taking the exam. To prepare, I went through the course, read the Security and Storage Whitepapers, FAQs for some services, especially VPC and RDS. I took the mini-quiz and practice exam on my SA Exam mobile app, getting 85-90%. Did not do as well on the Scenario Quiz, which I could not even finish (ending up with 60% I think). Some of those questions were much harder than the actual test. I built the VPC-Subnet-IG-NAT setup on my own right after that chapter, and then did it again the week before taking the test. That helped with knowledge and confidence.
 
 One thing that helped was to take the quizzes, and for services where I got things wrong, review the FAQs. I also skimmed over the Security and Storage Whitepapers the day of the exam (after having read them in full). Doing this helped me answer a few questions. I forgot to read the Lambda FAQ and may have missed a question on that.
@@ -262,9 +271,12 @@ From <https://acloud.guru/forums/aws-certified-solutions-architect-associate/dis
  
 
  
+ 
 I passed the CSA Associate exam today with 58%. There were quite a few unexpected questions regarding Cassandra Clusters, VPC Configurations, etc. But overall I studied to understand and not for the exam. There were questions regarding Bastian Hosts, VPC, NAT Instance, NAT Gateway, Kinesis, etc. Pay more attention to VPC and ELB as there were many questions on them. Good luck!
 
 From <https://acloud.guru/forums/aws-certified-solutions-architect-associate/discussion/-L1ZhIJd21pIeHyL90_C/passed_the_csaa_today!> 
+ 
+ 
  
  
 I passed my SAA today. This course was helpful. Thanks to Ryan and Cloud guru team. Had many questions about ASG and ELB. Highly recommend reading white papers especially security ones and faqs. Couple of questions about VPC, Kinesis, SQS, SNS, ECS, S3 concepts. Overall I had a good experience, learned a lot of new things with this certification prep. Good luck to all of you!
