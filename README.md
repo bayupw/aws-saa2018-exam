@@ -172,32 +172,6 @@ From <https://acloud.guru/forums/aws-certified-solutions-architect-associate/dis
  
 
  
-Hello Fellow Cloud Gurus,
-
-I took the exam on April 6, 2018 and passed with a score of 77% (old version). My prep was as follows:
-
-- A Cloud Guru Course (all lectures, all labs)
-- Do the quizzes and exams until you're constantly making 90%+ on them.
-- For the Mini Exam and Practice Test/Exam, get a true UNDERSTANDING of why you missed the question.
-- Whizlabs: I did all of their practice exams. The first time I ALWAYS made between a 68-72% and this was for 8 all practice exams. I would study the answers I got wrong by reading the information the link takes you to. On the 2nd attempt I always made a 90% or better. In my opinion, if you do this you don't need to read the Whitepapers. I went through all of the practice exams at least twice and the first 4 I did 3x.
-
-My prep took 6 weeks of study. I have been an IT Project Manager & Program Manager for over 13 years. I have never coded, but I've always worked in IT. I say that to demonstrate that you don't have to be the most technical person to learn AWS and pass this exam.
-
-My suggestion would be to do at least what I did. Whizlabs is key as there were about 8-10 questions on the exam directly from Whizlabs. Whizlabs also does a great job of helping you to understand why you missed something if you read through the links.
-
-I listened to the videos while I worked out, when traveling out of town every other weekend, during concentrated study time, etc. I was completed focused for those 6 weeks.
-
-Overall I would say that the exam was as hard as I thought it would be. My preparation was intense and I conquered! Big thanks to A Cloud Guru for this course.
-
-NEXT STEPS: Developer Associate (Target date of April 23), SysOps Associate (June 2018), Solutions Architect Professional (September 2018).
-
-Today's Date: Thursday, April 17, 2018
-
-From <https://acloud.guru/forums/aws-certified-solutions-architect-associate/discussion/-LAKnsq6lGG8bwURFDe4/sa_associate_certified!!__pass> 
- 
-
- 
- 
 Yesterday I passed the SA Associate Exam (Feb 2018); one month ago I passed Developer Associate. I've been doing AWS on the job for about two years, but the services used weren't very complex - certainly not even 10% of the stuff you see in these certifications.
 
 I'm not going to give you questions on the exam if only because my brain is too small to remember questions like that, but perhaps I can help by giving you an idea of what to expect and my experience.
